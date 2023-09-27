@@ -1,4 +1,5 @@
 HW1/spec2006.zip
+HW1/spec_2006/
 
 # Prerequisites
 *.d
@@ -30,5 +31,5 @@ HW1/spec2006.zip
 
 # Executables
 *.exe
-*.out
+# *.out
 *.app
