@@ -1,0 +1,26 @@
+Total Ins Count:              108000000002                  
+
+-----------------------------------------------------------------------------------------------------------
+Total conditional Branch Ins: 133479303
+Total Forward Conditional Branches: 29228742
+Total Backward Conditional Branches: 104250561
+---------------------------------
+prediction Frac(Forward)   Misprediction Frac(Backward)  Misprediction Frac(Total)     
+FNBT                          31.7116                       4.59891                       10.5359                       
+BIM                           12.5548                       2.01889                       4.32601                       
+SAG                           7.6399                        1.3349                        2.71555                       
+GAG                           11.9956                       1.88848                       4.10169                       
+GSHARE                        11.8061                       1.73711                       3.94197                       
+SAG_GAG_HYBRID                5.78555                       1.03765                       2.07733                       
+MAJ                           7.05707                       1.24572                       2.51826                       
+TOURNAMENTMP                  5.17403                       0.955862                      1.87954                       
+-----------------------------------------------------------------------------------------------------------
+Total Indirect Calls          7064244                       7064244                       
+
+BTB Type                      Misprediction Fraction        BTB Miss Rate                 
+BTB(PC)                       35.4818                       0.00668154                    
+BTB(PC XOR GHR)               12.0434                       0.793135                      
+-----------------------------------------------------------------------------------------------------------
+
+
+Total Execution Time:         440                           

@@ -1,0 +1,26 @@
+Total Ins Count:              1332000000000                 
+
+-----------------------------------------------------------------------------------------------------------
+Total conditional Branch Ins: 172226760
+Total Forward Conditional Branches: 125491807
+Total Backward Conditional Branches: 46734953
+-----------------------------------------------------------------------------------------------------------
+Direction Predictor           Misprediction Frac(Forward)   Misprediction Frac(Backward)  Misprediction Frac(Total)     
+FNBT                          9.80271                       5.33882                       8.5914                        
+BIM                           4.66085                       2.25203                       4.0072                        
+SAG                           2.41469                       1.24981                       2.09859                       
+GAG                           5.8463                        3.3471                        5.16812                       
+GSHARE                        4.99449                       3.20164                       4.50798                       
+SAG_GAG_HYBRID                1.76962                       1.0967                        1.58702                       
+MAJ                           2.68197                       1.78191                       2.43773                       
+TOURNAMENTMP                  1.63322                       0.965019                      1.4519                        
+-----------------------------------------------------------------------------------------------------------
+Total Indirect Calls          33919949                      33919949                      
+
+BTB Type                      Misprediction Fraction        BTB Miss Rate                 
+BTB(PC)                       28.6954                       2.46549                       
+BTB(PC XOR GHR)               29.1813                       16.1178                       
+-----------------------------------------------------------------------------------------------------------
+
+
+Total Execution Time:         5297                          
