@@ -1,0 +1,23 @@
+3319 1:<FETCH> 
+3319 1:<FETCH> ************************************************************
+3319 1:<FETCH> 
+3319 1:<FETCH> Number of instructions: 3301
+3319 1:<FETCH> Number of simulated cycles: 3319
+3319 1:<FETCH> CPI: 1.01
+3319 1:<FETCH> Load-interlock: 0
+3319 1:<FETCH> Load-delay interlock stalls: 0.000000
+3319 1:<FETCH> Int Conditional Branches: 716
+3319 1:<FETCH> Jump and Link: 38
+3319 1:<FETCH> Jump Register: 37
+3319 1:<FETCH> Number of fp instructions: 4
+3319 1:<FETCH> Number of loads: 594
+3319 1:<FETCH> Number of syscall emulated loads: 129
+3319 1:<FETCH> Number of stores: 218
+3319 1:<FETCH> Number of syscall emulated stores: 49
+3319 1:<FETCH> -----------------------------Stats---------------------
+
+3319 1:<FETCH> Total Ins    3301
+3319 1:<FETCH> Percentage Loads    0.219025
+3319 1:<FETCH> Percentage Stores    0.080885
+3319 1:<FETCH> Percentage CB    0.216904
+3319 1:<FETCH> 

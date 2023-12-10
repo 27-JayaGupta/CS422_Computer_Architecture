@@ -1,0 +1,23 @@
+25555 1:<FETCH> 
+25555 1:<FETCH> ************************************************************
+25555 1:<FETCH> 
+25555 1:<FETCH> Number of instructions: 25540
+25555 1:<FETCH> Number of simulated cycles: 25555
+25555 1:<FETCH> CPI: 1.00
+25555 1:<FETCH> Load-interlock: 0
+25555 1:<FETCH> Load-delay interlock stalls: 0.000000
+25555 1:<FETCH> Int Conditional Branches: 2442
+25555 1:<FETCH> Jump and Link: 1297
+25555 1:<FETCH> Jump Register: 1306
+25555 1:<FETCH> Number of fp instructions: 28
+25555 1:<FETCH> Number of loads: 3613
+25555 1:<FETCH> Number of syscall emulated loads: 83
+25555 1:<FETCH> Number of stores: 4326
+25555 1:<FETCH> Number of syscall emulated stores: 45
+25555 1:<FETCH> -----------------------------Stats---------------------
+
+25555 1:<FETCH> Total Ins    25540
+25555 1:<FETCH> Percentage Loads    0.144714
+25555 1:<FETCH> Percentage Stores    0.171143
+25555 1:<FETCH> Percentage CB    0.095615
+25555 1:<FETCH> 

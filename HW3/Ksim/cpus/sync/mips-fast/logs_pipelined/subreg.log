@@ -1,0 +1,21 @@
+16505 0:<FETCH> 
+16505 0:<FETCH> ************************************************************
+16505 0:<FETCH> 
+16505 0:<FETCH> Number of instructions: 3301
+16505 0:<FETCH> Number of simulated cycles: 16505
+16505 0:<FETCH> CPI: 5.00
+16505 0:<FETCH> Int Conditional Branches: 716
+16505 0:<FETCH> Jump and Link: 38
+16505 0:<FETCH> Jump Register: 37
+16505 0:<FETCH> Number of fp instructions: 4
+16505 0:<FETCH> Number of loads: 594
+16505 0:<FETCH> Number of syscall emulated loads: 129
+16505 0:<FETCH> Number of stores: 218
+16505 0:<FETCH> Number of syscall emulated stores: 49
+16505 0:<FETCH> -----------------------------Stats---------------------
+
+16505 0:<FETCH> Total Ins    3301
+16505 0:<FETCH> Percentage Loads    0.219025
+16505 0:<FETCH> Percentage Stores    0.080885
+16505 0:<FETCH> Percentage CB    0.216904
+16505 0:<FETCH> 

@@ -581,7 +581,7 @@ VOID Trace(TRACE trace, VOID* v)
         // MyExitRoutine() is called only when the last call returns a non-zero value.
         BBL_InsertThenCall(bbl, IPOINT_BEFORE, (AFUNPTR)MyExitRoutine, IARG_END);
 
-        // Insert all the calls here once you have fast forwarded the given amount of ins
+        // Insert all the calls here onc     e you have fast forwarded the given amount of ins
         CategoryCount(bbl);
 
         // Insert a call to CountBbl() before every basic block, passing the number of instructions

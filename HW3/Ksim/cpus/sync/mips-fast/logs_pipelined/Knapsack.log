@@ -1,0 +1,23 @@
+2716 1:<FETCH> 
+2716 1:<FETCH> ************************************************************
+2716 1:<FETCH> 
+2716 1:<FETCH> Number of instructions: 2701
+2716 1:<FETCH> Number of simulated cycles: 2716
+2716 1:<FETCH> CPI: 1.01
+2716 1:<FETCH> Load-interlock: 0
+2716 1:<FETCH> Load-delay interlock stalls: 0.000000
+2716 1:<FETCH> Int Conditional Branches: 466
+2716 1:<FETCH> Jump and Link: 41
+2716 1:<FETCH> Jump Register: 40
+2716 1:<FETCH> Number of fp instructions: 2
+2716 1:<FETCH> Number of loads: 514
+2716 1:<FETCH> Number of syscall emulated loads: 73
+2716 1:<FETCH> Number of stores: 353
+2716 1:<FETCH> Number of syscall emulated stores: 53
+2716 1:<FETCH> -----------------------------Stats---------------------
+
+2716 1:<FETCH> Total Ins    2701
+2716 1:<FETCH> Percentage Loads    0.217327
+2716 1:<FETCH> Percentage Stores    0.150315
+2716 1:<FETCH> Percentage CB    0.172529
+2716 1:<FETCH> 

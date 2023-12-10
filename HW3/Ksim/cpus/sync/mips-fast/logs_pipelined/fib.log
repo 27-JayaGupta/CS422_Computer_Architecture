@@ -1,0 +1,23 @@
+44794 1:<FETCH> 
+44794 1:<FETCH> ************************************************************
+44794 1:<FETCH> 
+44794 1:<FETCH> Number of instructions: 44779
+44794 1:<FETCH> Number of simulated cycles: 44794
+44794 1:<FETCH> CPI: 1.00
+44794 1:<FETCH> Load-interlock: 0
+44794 1:<FETCH> Load-delay interlock stalls: 0.000000
+44794 1:<FETCH> Int Conditional Branches: 3747
+44794 1:<FETCH> Jump and Link: 2513
+44794 1:<FETCH> Jump Register: 2522
+44794 1:<FETCH> Number of fp instructions: 28
+44794 1:<FETCH> Number of loads: 6022
+44794 1:<FETCH> Number of syscall emulated loads: 81
+44794 1:<FETCH> Number of stores: 7939
+44794 1:<FETCH> Number of syscall emulated stores: 43
+44794 1:<FETCH> -----------------------------Stats---------------------
+
+44794 1:<FETCH> Total Ins    44779
+44794 1:<FETCH> Percentage Loads    0.136292
+44794 1:<FETCH> Percentage Stores    0.178253
+44794 1:<FETCH> Percentage CB    0.083678
+44794 1:<FETCH> 

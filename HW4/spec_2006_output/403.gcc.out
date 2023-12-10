@@ -1,0 +1,21 @@
+DESIGN1: L1(LRU) and L2(LRU)  
+L1 Access:                    509201871                     
+L2 Access:                    6972804                       
+L1 Misses:                    6972804                       
+L2 Misses:                    419804                        
+L2 dead-on-fill Blocks:       48.9931                       
+L2 (atleast 2 hits/ atleast 1 hit): 77.6662                       
+
+DESIGN2: L1(LRU) and L2(SRRIP)
+L1 Misses:                    6972908                       
+L2 Misses:                    307228                        
+
+
+DESIGN3: L1(LRU) and L2(NRU)  
+L1 Misses:                    6972871                       
+L2 Misses:                    366800                        
+
+
+-----------------------------------------------------------------------------------------------------------
+Total ins instrumented: 108000000000
+Total Execution Time: 1970

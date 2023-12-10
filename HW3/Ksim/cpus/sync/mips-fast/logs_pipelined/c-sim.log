@@ -1,0 +1,23 @@
+1840 1:<FETCH> 
+1840 1:<FETCH> ************************************************************
+1840 1:<FETCH> 
+1840 1:<FETCH> Number of instructions: 1825
+1840 1:<FETCH> Number of simulated cycles: 1840
+1840 1:<FETCH> CPI: 1.01
+1840 1:<FETCH> Load-interlock: 0
+1840 1:<FETCH> Load-delay interlock stalls: 0.000000
+1840 1:<FETCH> Int Conditional Branches: 372
+1840 1:<FETCH> Jump and Link: 26
+1840 1:<FETCH> Jump Register: 24
+1840 1:<FETCH> Number of fp instructions: 2
+1840 1:<FETCH> Number of loads: 282
+1840 1:<FETCH> Number of syscall emulated loads: 54
+1840 1:<FETCH> Number of stores: 109
+1840 1:<FETCH> Number of syscall emulated stores: 49
+1840 1:<FETCH> -----------------------------Stats---------------------
+
+1840 1:<FETCH> Total Ins    1825
+1840 1:<FETCH> Percentage Loads    0.184110
+1840 1:<FETCH> Percentage Stores    0.086575
+1840 1:<FETCH> Percentage CB    0.203836
+1840 1:<FETCH> 

@@ -1,0 +1,23 @@
+17118 1:<FETCH> 
+17118 1:<FETCH> ************************************************************
+17118 1:<FETCH> 
+17118 1:<FETCH> Number of instructions: 17103
+17118 1:<FETCH> Number of simulated cycles: 17118
+17118 1:<FETCH> CPI: 1.00
+17118 1:<FETCH> Load-interlock: 0
+17118 1:<FETCH> Load-delay interlock stalls: 0.000000
+17118 1:<FETCH> Int Conditional Branches: 3121
+17118 1:<FETCH> Jump and Link: 26
+17118 1:<FETCH> Jump Register: 23
+17118 1:<FETCH> Number of fp instructions: 2
+17118 1:<FETCH> Number of loads: 1754
+17118 1:<FETCH> Number of syscall emulated loads: 69
+17118 1:<FETCH> Number of stores: 890
+17118 1:<FETCH> Number of syscall emulated stores: 47
+17118 1:<FETCH> -----------------------------Stats---------------------
+
+17118 1:<FETCH> Total Ins    17103
+17118 1:<FETCH> Percentage Loads    0.106589
+17118 1:<FETCH> Percentage Stores    0.054786
+17118 1:<FETCH> Percentage CB    0.182483
+17118 1:<FETCH> 

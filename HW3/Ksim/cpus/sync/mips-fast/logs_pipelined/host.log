@@ -1,0 +1,23 @@
+14591 1:<FETCH> 
+14591 1:<FETCH> ************************************************************
+14591 1:<FETCH> 
+14591 1:<FETCH> Number of instructions: 14519
+14591 1:<FETCH> Number of simulated cycles: 14591
+14591 1:<FETCH> CPI: 1.00
+14591 1:<FETCH> Load-interlock: 0
+14591 1:<FETCH> Load-delay interlock stalls: 0.000000
+14591 1:<FETCH> Int Conditional Branches: 2863
+14591 1:<FETCH> Jump and Link: 214
+14591 1:<FETCH> Jump Register: 232
+14591 1:<FETCH> Number of fp instructions: 38
+14591 1:<FETCH> Number of loads: 2675
+14591 1:<FETCH> Number of syscall emulated loads: 319
+14591 1:<FETCH> Number of stores: 1422
+14591 1:<FETCH> Number of syscall emulated stores: 56
+14591 1:<FETCH> -----------------------------Stats---------------------
+
+14591 1:<FETCH> Total Ins    14519
+14591 1:<FETCH> Percentage Loads    0.206213
+14591 1:<FETCH> Percentage Stores    0.101798
+14591 1:<FETCH> Percentage CB    0.197190
+14591 1:<FETCH> 

@@ -1,0 +1,23 @@
+2422 1:<FETCH> 
+2422 1:<FETCH> ************************************************************
+2422 1:<FETCH> 
+2422 1:<FETCH> Number of instructions: 2407
+2422 1:<FETCH> Number of simulated cycles: 2422
+2422 1:<FETCH> CPI: 1.01
+2422 1:<FETCH> Load-interlock: 0
+2422 1:<FETCH> Load-delay interlock stalls: 0.000000
+2422 1:<FETCH> Int Conditional Branches: 466
+2422 1:<FETCH> Jump and Link: 38
+2422 1:<FETCH> Jump Register: 36
+2422 1:<FETCH> Number of fp instructions: 2
+2422 1:<FETCH> Number of loads: 349
+2422 1:<FETCH> Number of syscall emulated loads: 68
+2422 1:<FETCH> Number of stores: 163
+2422 1:<FETCH> Number of syscall emulated stores: 55
+2422 1:<FETCH> -----------------------------Stats---------------------
+
+2422 1:<FETCH> Total Ins    2407
+2422 1:<FETCH> Percentage Loads    0.173245
+2422 1:<FETCH> Percentage Stores    0.090569
+2422 1:<FETCH> Percentage CB    0.193602
+2422 1:<FETCH> 

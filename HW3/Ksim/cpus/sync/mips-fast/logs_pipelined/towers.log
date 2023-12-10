@@ -1,0 +1,23 @@
+80852 1:<FETCH> 
+80852 1:<FETCH> ************************************************************
+80852 1:<FETCH> 
+80852 1:<FETCH> Number of instructions: 80651
+80852 1:<FETCH> Number of simulated cycles: 80852
+80852 1:<FETCH> CPI: 1.00
+80852 1:<FETCH> Load-interlock: 0
+80852 1:<FETCH> Load-delay interlock stalls: 0.000000
+80852 1:<FETCH> Int Conditional Branches: 17002
+80852 1:<FETCH> Jump and Link: 1025
+80852 1:<FETCH> Jump Register: 1211
+80852 1:<FETCH> Number of fp instructions: 126
+80852 1:<FETCH> Number of loads: 14537
+80852 1:<FETCH> Number of syscall emulated loads: 2063
+80852 1:<FETCH> Number of stores: 6976
+80852 1:<FETCH> Number of syscall emulated stores: 49
+80852 1:<FETCH> -----------------------------Stats---------------------
+
+80852 1:<FETCH> Total Ins    80651
+80852 1:<FETCH> Percentage Loads    0.205825
+80852 1:<FETCH> Percentage Stores    0.087104
+80852 1:<FETCH> Percentage CB    0.210810
+80852 1:<FETCH> 
